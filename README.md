@@ -64,7 +64,7 @@ A fact table (`FactFlights`) holds the flight-level data.
 
 ### Data Model Structure:
 
-![Data Model](visuals/data_model.png)
+![Data Model](data_model.png)
 
 ---
 
@@ -78,7 +78,7 @@ This page provides a high-level overview of flight performance:
 - Monthly trends and airline comparisons.
 - Geographic distribution of affected flights.
 
-![General Analysis](visuals/general_analysis.png)
+![General Analysis](general_analysis.png)
 
 ---
 
@@ -89,7 +89,7 @@ This view focuses on identifying:
 - Primary causes of flight cancellations (weather, carrier, etc.).
 - Distribution of diverted flights across airports and airlines.
 
-![Cancellation and Diversion](visuals/cancel_divert.png)
+![Cancellation and Diversion](cancel_divert.png)
 
 ---
 
@@ -101,7 +101,7 @@ This section breaks down delay causes:
 - Delay patterns by airline, airport, and day of the week.
 - Visuals include bar charts, boxplots, and heatmaps.
 
-![Delay Analysis](visuals/delay_analysis.png)
+![Delay Analysis](delay_analysis.png)
 
 ---
 
