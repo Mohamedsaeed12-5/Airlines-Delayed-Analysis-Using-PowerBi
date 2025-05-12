@@ -4,6 +4,13 @@ This project presents a comprehensive analysis of U.S. airline delays in the yea
 
 ---
 
+## Interactive Project
+You Can find the project and interact with it on novypro
+here's the link
+[Project](https://project.novypro.com/40ZidP)
+
+---
+
 ## Table of Contents
 
 1. [Project Objectives](#project-objectives)  
@@ -107,5 +114,8 @@ This section breaks down delay causes:
 
 ## 🔗 Connect with Me
 
+- [NovyPro](https://my.novypro.com/mohamed-saeed-1)
 - [LinkedIn](https://www.linkedin.com/in/mohammed-saeed-4148b423b/)
 - [GitHub](https://github.com/Mohamedsaeed12-5)
+
+  
