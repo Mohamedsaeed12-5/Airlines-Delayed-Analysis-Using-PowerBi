@@ -7,7 +7,7 @@ This project presents a comprehensive analysis of U.S. airline delays in the yea
 ## Interactive Project
 You Can find the project and interact with it on novypro,
 here's the link
-[Project](https://project.novypro.com/40ZidP)
+[Interactive Dashboard](https://project.novypro.com/40ZidP)
 
 ---
 
